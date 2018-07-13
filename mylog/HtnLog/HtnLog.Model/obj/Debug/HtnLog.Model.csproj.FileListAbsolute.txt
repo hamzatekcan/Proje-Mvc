@@ -1,0 +1,6 @@
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\bin\Debug\HtnLog.Model.dll
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\bin\Debug\HtnLog.Model.pdb
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\obj\Debug\HtnLog.Model.csprojAssemblyReference.cache
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\obj\Debug\HtnLog.Model.csproj.CoreCompileInputs.cache
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\obj\Debug\HtnLog.Model.dll
+C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.Model\obj\Debug\HtnLog.Model.pdb

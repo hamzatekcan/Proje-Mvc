@@ -4,3 +4,17 @@ C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debu
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.csproj.CoreCompileInputs.cache
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.dll
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.BLL.dll.config
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.BLL.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.BLL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.DAL.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.Model.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.DAL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\HtnLog.Model.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.BLL\obj\Debug\HtnLog.BLL.pdb

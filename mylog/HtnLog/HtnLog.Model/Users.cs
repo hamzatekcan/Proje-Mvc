@@ -11,6 +11,7 @@ namespace HtnLog.Model
         public int id { get; set; }
         public string name { get; set; }
         public string surname { get; set; }
-        public bool authority { get; set; }
+        public string authority { get; set; }
+        public bool active { get; set; }
     }
 }

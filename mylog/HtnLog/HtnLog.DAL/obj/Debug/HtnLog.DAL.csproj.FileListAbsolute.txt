@@ -12,3 +12,17 @@ C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debu
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.csproj.CopyComplete
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.dll
 C:\Users\konsalt\Desktop\GitHub\proje\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\HtnLog.DAL.dll.config
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\HtnLog.DAL.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\HtnLog.DAL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\HtnLog.Model.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\HtnLog.Model.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.dll
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.pdb
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.Migrations.v10.resources
+C:\Users\hamza\Desktop\github\Proje-Mvc\mylog\HtnLog\HtnLog.DAL\obj\Debug\HtnLog.DAL.csproj.GenerateResource.Cache

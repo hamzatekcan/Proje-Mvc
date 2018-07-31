@@ -17,6 +17,7 @@ namespace HtnLog.DAL.Entity
         public HtnLogEntities()
             : base("name=HtnLogEntities")
         {
+            Database.SetInitializer<HtnLogEntities>(new MyDb());
         }
 
         // Add a DbSet for each entity type that you want to include in your model. For more information 
@@ -35,6 +36,8 @@ namespace HtnLog.DAL.Entity
     {
         protected override void Seed(HtnLogEntities context)
         {
+            context.Users.Add(new Users { name = "Hamza", surname = "tekcan", active = true, authority = "admin" });
+            context.SaveChanges();
             base.Seed(context);
         }
     }
